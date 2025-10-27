@@ -16,5 +16,8 @@
 		<li>1.6</li>
 	</supportedVersions>
 	<description>Allows you to plant grass and tall grass in growing zones</description>
+	<loadAfter>
+		<li>ReGrowth.BOTR.Core</li>
+	</loadAfter>
 	
 </ModMetaData>
